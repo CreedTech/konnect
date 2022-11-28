@@ -71,7 +71,7 @@
     </li>
   </ul>
   <div class="footer-bottom">
-    <p>All Rights Reserved by &copy; NewsGrid <?php echo date("Y")?></p>
+    <p>All Rights Reserved by &copy; NewsGrid <?php echo date("Y")?>. Created by Ayoola</p>
   </div>
 </footer>
 

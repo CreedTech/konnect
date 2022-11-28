@@ -153,8 +153,7 @@
             }
             echo'&nbsp';
 
-            // Download button
-            echo '<a class="btn btn-download" target="_blank" href="download-article.php?id='.$article_id.'">Download Article &nbsp<i class="fas fa-download"></i></a>';   
+           
           ?>
         </div>
         <?php
