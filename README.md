@@ -2,37 +2,26 @@
 
 ## Introduction
 
-Developed an Online News Portal, that allows various users to easily create, read, bookmark and download news articles. Integrated [mPDF](https://mpdf.github.io/), a PHP library which generates PDF files from UTF-8 encoded HTML. Wrote clean, well documented, reusable code and incorporated the best development practices at my best.
-<br>
+Developed an Online News Portal, that allows various users to easily create, read, bookmark news articles.
 
 Technologies used:
 
 - Front end: HTML, CSS, JavaScript, Bootstrap (for Admin Panel only)
 - Back end: PHP, MySQL
-- Library: mPDF Library
   <br>
 
 This project aims to develop a computerized and easy to access the day-to-day news without having to wait. “NewsGrid” is aimed at developing such an efficient website that helps in providing up to date news about various happenings around the world.
 
-#### [View Demo](https://news-grid.herokuapp.com/)
+#### [View Demo]
 
 ```
-Demo Credentials
-email: demo@demo.com
-password: Demo123
+admin Credentials
+email: admin@admin.com
+password: Adminpass1
 ```
 
-#### [View Screenshots](https://github.com/Anish-U/NewsGrid#project-screenshots)
 
 ## Module Description
-
-The entire project as a whole can be divided into 4 modules, the
-four modules being:
-
-- [Admin Module](https://github.com/Anish-U/NewsGrid#admin-module)
-- [Author Module](https://github.com/Anish-U/NewsGrid#author-module)
-- [Free User](https://github.com/Anish-U/NewsGrid#user-module)
-- [Premium User](https://github.com/Anish-U/NewsGrid#premium-user-module)
 
 ### Admin Module
 
@@ -64,68 +53,15 @@ four modules being:
 
 <hr style="font-size: 10px;margin: auto;" width="90%" >
 
-### Premium User Module
-
-- A Premium User can basically do everything a free user can do. User can browse through NewsGrid website and search for articles under various categories present in the portal.
-- User can search for a particular article based on specific keywords like title of the article or category name, trending, date.
-- Premium User can download an article of his choice in PDF format from any web browser from NewsGrid Portal.
-- Premium User can bookmark an article for future references and all the bookmarked articles are visible separately on the Bookmarks Page.
-- Premium User can manage his account credentials (i.e.) can change password.
-
----
-
-## Project Screenshots
-
-#### Home Page
-<img src="https://github.com/Anish-U/NewsGrid/blob/master/screenshots/home.png" width="500">
-
-#### Categories Page
-<img src="https://github.com/Anish-U/NewsGrid/blob/master/screenshots/categories.png" width="500">
-
-#### Search Page
-<img src="https://github.com/Anish-U/NewsGrid/blob/master/screenshots/search.png" width="500">
-
-#### Login & Signup Page
-<img src="https://github.com/Anish-U/NewsGrid/blob/master/screenshots/login.png" width="500">
-
-#### Bookmarks Page
-<img src="https://github.com/Anish-U/NewsGrid/blob/master/screenshots/bookmarks.png" width="500">
-
-#### Change Password Page
-<img src="https://github.com/Anish-U/NewsGrid/blob/master/screenshots/changePassword.png" width="500">
-
-#### Author Dashboard Page
-<img src="https://github.com/Anish-U/NewsGrid/blob/master/screenshots/authorPanelDashboard.png" width="500">
-
-#### Add Article Page
-<img src="https://github.com/Anish-U/NewsGrid/blob/master/screenshots/authorPanelAddArticle.png" width="500">
-
-#### Edit Article Page
-<img src="https://github.com/Anish-U/NewsGrid/blob/master/screenshots/authorPanelEditArticle.png" width="500">
-
-#### All Articles Page
-<img src="https://github.com/Anish-U/NewsGrid/blob/master/screenshots/authorPanelArticles.png" width="500">
-
-#### Author Change Name Page
-<img src="https://github.com/Anish-U/NewsGrid/blob/master/screenshots/authorPanelChangeName.png" width="500">
-
-#### Admin Login Page
-<img src="https://github.com/Anish-U/NewsGrid/blob/master/screenshots/adminPanelLogin.png" width="500">
-
-#### Admin Manage Articles Page
-<img src="https://github.com/Anish-U/NewsGrid/blob/master/screenshots/adminPanelArticles.png" width="500">
-
-#### Admin Manage Category Page
-<img src="https://github.com/Anish-U/NewsGrid/blob/master/screenshots/adminPanelCategories.png" width="500">
 
 ---
 
 ## Development setup
 
-#### 1. Retrieve the project (if you haven't done so already)
+#### 1. Clone the project 
 
 ```git
- $ git clone https://github.com/Anish-U/NewsGrid.git
+ $ git clone https://github.com/CreedTech/konnect.git
 ```
 or download the project via GitHub
 
