@@ -17,7 +17,7 @@ This project aims to develop a computerized and easy to access the day-to-day ne
 ```
 admin Credentials
 email: admin@admin.com
-password: Adminpass1
+password: Adminpassword1
 ```
 
 
